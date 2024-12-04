@@ -1,5 +1,4 @@
-# BMLD-LN2-Guggus
-Leistungsnachweis 2: Carmen, Mcqulat, Joyce
+# Leistungsnachweis_2
 
 # Todesfälle bei Alkohol- und Drogenmissbrauch
 
